@@ -5,4 +5,4 @@ a big sphere. This is my first three.js project and it's done to learn how to pr
 
 ## Demo
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![](https://github.com/TheIvan96/Rgb-Blending-Threejs/blob/main/demo.gif)
