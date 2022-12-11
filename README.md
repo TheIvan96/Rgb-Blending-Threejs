@@ -5,4 +5,6 @@ a big sphere. This is my first three.js project and it's done to learn how to pr
 
 ## Demo
 
+**Click to view better**
+
 ![](https://github.com/TheIvan96/Rgb-Blending-Threejs/blob/main/demo.gif)
