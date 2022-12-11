@@ -1,0 +1,15 @@
+.header {
+    overflow: hidden;
+    background-color: #d5d5d5;
+}
+
+.header p {
+    float: left;
+    color: black;
+    font-family: 'Oswald';
+    text-decoration: none;
+    font-size: 40px;
+    margin-left: 20px;
+    padding-top: 25px;
+    padding-bottom: 25px
+}
